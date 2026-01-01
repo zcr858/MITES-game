@@ -1,0 +1,1 @@
+created a simple game that was MIT and Galaga inspired and ACTIVE. With a sensor attached to you, you would move left and right in person to move your charcater in the game to avoid harmful objects and collect beneficial ones. I had to optimize how many pixels our infrared camera would scan so that there wasn't a lag in the game.
